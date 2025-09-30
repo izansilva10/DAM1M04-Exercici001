@@ -1,0 +1,27 @@
+#titol {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.text-important {
+    color: red;
+    font-weight: bold;
+}
+
+li:first-child{
+    color: red;
+}
+li{
+    color: green;
+}
+li:last-child{
+    color: blue;
+}
+
+.vermell{
+    color: red;
+}
+#wikipedia:hover {
+    color: blueviolet;
+    cursor: pointer;
+}
