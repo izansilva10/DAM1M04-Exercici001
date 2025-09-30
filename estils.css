@@ -2,7 +2,6 @@
     font-size: 50px;
     text-decoration: underline;
 }
-
 .text-important {
     color: red;
     font-weight: bold;
@@ -24,4 +23,17 @@ li:last-child{
 #wikipedia:hover {
     color: blueviolet;
     cursor: pointer;
+}
+.gran {
+    font-size: 25px;
+}
+.negreta {
+    font-weight: bold;
+}
+.subrallat {
+    text-decoration: underline;
+}
+a:hover{
+    color: deeppink;
+    cursor: cell;
 }
