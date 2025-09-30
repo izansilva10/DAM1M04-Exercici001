@@ -37,3 +37,9 @@ a:hover{
     color: deeppink;
     cursor: cell;
 }
+p::before{
+    color: blue;
+}
+p::after{
+    color: green;
+}
